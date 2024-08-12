@@ -1,0 +1,16 @@
+.searchcontainer {
+    margin: 20px auto;
+    width: 300px;
+    position: relative;
+}
+
+.input {
+    border: none;
+    border-bottom: 1px solid #393e46;
+    width: 100%;
+    padding: 10px 20px;
+    outline: none;
+    font-size: 16px;
+    color: #393e46;
+
+}

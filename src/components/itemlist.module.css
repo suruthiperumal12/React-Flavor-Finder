@@ -1,0 +1,32 @@
+.itemlistcontainer {
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.itemlistcontainer ol {
+    padding-left: 20px;
+    list-style-position: inside;
+}
+
+
+.itemlistcontainer li {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 8px;
+    list-style: none;
+}
+
+.itemlistcontainer span {
+    margin-left: 5px;
+    font-weight: bold;
+    color: #666;
+}
+
+@media (max-width: 768px) {
+    .itemlistcontainer {
+        padding: 10px;
+        margin: 5px 0;
+    }
+}
