@@ -35,7 +35,8 @@
 }
 
 .itembutton {
-    background-color: #29bb89;
+    /* background-color: #29bb89; */
+    background-color: #87CEEB;
     border: none;
     color: white;
     padding: 10px;
@@ -46,12 +47,13 @@
 }
 
 .itembutton:hover {
-    background-color: #1c7958
+    /* background-color: #1c7958 */
+    background-color: #FF6F61;
 }
 
 @media (max-width: 768px) {
     .itemcontainer {
         width: 100%;
-        margin: 10px 0;
+        margin: 10px;
     }
 }
