@@ -36,7 +36,7 @@
 
 .itembutton {
     /* background-color: #29bb89; */
-    background-color: #87CEEB;
+    background-color: #FF6F61;
     border: none;
     color: white;
     padding: 10px;
@@ -48,7 +48,7 @@
 
 .itembutton:hover {
     /* background-color: #1c7958 */
-    background-color: #FF6F61;
+    background-color: #87CEEB;
 }
 
 @media (max-width: 768px) {
